@@ -1,0 +1,17 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Dark Forest",
+      "levels": [1, 2],
+      "unlockCondition": "start"
+    },
+    {
+      "id": 2,
+      "name": "Castle of Doom",
+      "levels": [3],
+      "unlockCondition": "chapter1_complete"
+    }
+  ],
+  "bosses": ["tree_spirit", "cave_troll", "dragon_king"]
+}
